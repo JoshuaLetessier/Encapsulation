@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="App">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAQAAAABgEkIAAAAgAIQAAAAhADAAAgBIM=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppGDI">
+    <Position X="4.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAQAAAgAAAAgIABACAAAAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\AppGDI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppSFML">
+    <Position X="6.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAEAAAgAAAAgIADACAAAAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\AppSFML.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAIABAgkAAIAGIwAAAgIQAxCBAEBgQGAAAIA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallManager" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAEAACAQAAAAAQAAAAAgAgAAAACAAAAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\BallManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collid" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAg=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\Collid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphic">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAAAAAAAAAAAIAAAAAAAEAAAIAAAAAAAAAAAE=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\Graphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicGDI">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAQAAAAAAAAIAAEQAAAEgAAIAIIAAAAgABAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\GraphicGDI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicSFML">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAAAAAAAIAAAAAAJEAAAIIAAAAAAAAABA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\GraphicSFML.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Move" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAIAAAAAABAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\Move.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Window">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABACAAIAEAAAAQAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowGDI">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABACAAAAEAAAAAAAAAAAAAAAAAgABAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\WindowGDI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowSFML">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAABACAAAAEAAAAAAAAAAIAAAAAAgAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\WindowSFML.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ballStruct" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAIAAAgAAAAAAAwCAAABgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Faoll\source\repos\Encapsulation\src\Encapsulation\pch.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
