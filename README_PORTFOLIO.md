@@ -10,7 +10,7 @@ VisualStudio, GDI, SFML
 
 ## Pre-description
 
-Entrainement à l'encapsulation et à l'utilisation des variables préprocesseurs.
+Compinaison de GDI et SFML
 
 ## Description
 
