@@ -21,4 +21,4 @@ Développement d’une application Windows permettant de faire apparaître des b
 Comprendre le fonctionnement des variables préprocesseurs et combiné l'utilisation de GDI et SFML à une librairi physique maison modulables.
 
 ## Vidéo
-https://youtu.be/zji473yl5KU
+https://www.youtube.com/watch?v=zji473yl5KU
